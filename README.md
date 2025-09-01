@@ -1,4 +1,5 @@
 # LicitaGov
+⚠️ Atenção! Leia até o final para ter acesso aos links do Figma ⚠️
 
 ## Geral
 <div align="justify"> LicitaGov — Portal de Propostas é uma solução desenvolvida para o desafio técnico.
@@ -57,11 +58,11 @@ O objetivo é simular um portal de licitações com foco em UX/UI acessível, re
 <div>&nbsp;</div>
 <div align="center">
   
-| Plataforma             | Link                                      | Forças                                                                 | Fraquezas                                           | O que levo para o meu projeto                                                                 |
-|------------------------|-------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| **Compras.gov.br**     | [https://www.gov.br/compras/pt-br](https://www.gov.br/compras/pt-br) | - Institucionalmente forte e com alta credibilidade.<br>- Plataforma centralizada para compras governamentais. | - Pouca orientação para o usuário ("envie sua proposta agora"). | - Um **Hero** com um **CTA (Call to Action)** claro e uma promessa simples, incentivando o envio de propostas. |
-| **BEC SP**             | [https://www.bec.sp.gov.br](https://www.bec.sp.gov.br)               | - Painel com contadores de status e atividade em tempo real.<br>- Linguagem objetiva e direta. | - Layout denso e complexo.<br>- Onboarding fraco para novos usuários. | - Um bloco **"Como funciona"** com 4 passos simples e ícones, facilitando a compreensão do processo. |
-| **Typeform (inspiração indireta)** | [https://www.typeform.com](https://www.typeform.com)                 | - Padrões de **UX (User Experience)** de formulários e wizards.<br>- Design focado em dispositivos móveis. | - (Nenhuma destacada na análise original).          | - Utilizar um **wizard** para guiar o usuário, especialmente em dispositivos móveis.<br>- Criar **CTAs chamativos** para aumentar a conversão. |
+| Plataforma | Link | Forças | Fraquezas | O que levo para o meu projeto |
+| :--- | :--- | :--- | :--- | :--- |
+| **Compras.gov.br** | [https://www.gov.br/compras/pt-br](https://www.gov.br/compras/pt-br) | - Institucionalmente forte e com alta credibilidade. <br> - Plataforma centralizada para compras governamentais. | - Pouca orientação para o usuário ("envie sua proposta agora"). | - Um **Hero** com um **CTA (Call to Action)** claro e uma promessa simples, incentivando o envio de propostas. |
+| **BEC SP** | [https://www.bec.sp.gov.br](https://www.bec.sp.gov.br) | - Painel com contadores de status e atividade em tempo real. <br> - Linguagem objetiva e direta. | - Layout denso e complexo. <br> - Onboarding fraco para novos usuários. | - Um bloco **"Como funciona"** com 4 passos simples e ícones, facilitando a compreensão do processo. |
+| **Typeform (inspiração indireta)** | [https://www.typeform.com](https://www.typeform.com) | - Padrões de **UX (User Experience)** de formulários e wizards. <br> - Design focado em dispositivos móveis. | - (Nenhuma destacada na análise original). | - Utilizar um **wizard** para guiar o usuário, especialmente em dispositivos móveis. <br> - Criar **CTAs chamativos** para aumentar a conversão. |
 
 </div>
 
@@ -121,14 +122,19 @@ O objetivo é simular um portal de licitações com foco em UX/UI acessível, re
 <div align="justify"> Antes de começar o LP + formulário + confirmação, foi feito um wireframe de baixa fidelidade para analisar a localização de cada ponto. A fim de otimizar tempo, apenas o wireframe do desktop foi elaborado, mas a versão mobile está igualmente disponível no projeto final. (a imagem dessa seção se refere ao wireframe da LP) Assim, tem-se: </div>
 <div>&nbsp;</div>
 
-* Header clean com CTA persistente (à direita), logo na esquerda e navegação central
-* Hero section com CTA, chamando o usuário para submeter sua proposta
-* Um card com sequeência de ações explicando como você manda sua proposta, e o fluxo esperado
-* Um card mostrando o edital em destaque
-* Uma seção mostrando FAQ (com CTA), e Contato
-* Um footer com links fictícios adicionais, simulando informações extras, e contato com a empresa (telefone, email, etc)
-* Página de formulário
-* Página de confirmação
+* **Header:** <div align="justify"> A ideia era criar algo limpo e que fizesse sentido para quem usa a plataforma. A logo está ali, à esquerda, para o usuário saber onde ele está. O botão "Enviar Proposta" fica sempre à vista, na direita, como um lembrete amigável do objetivo principal do site. Para desktops, adicionamos uns links de navegação no centro para que as pessoas possam ir para as seções de FAQ e contato sem ter que rolar a página toda. No celular, o menu hambúrguer resolve o problema de espaço, mantendo tudo arrumado. </div>
+  
+* **Hero Section:** <div align="justify"> A hero section foi pensada para ser o ponto de partida visual e emocional do site. A ideia é que ela não seja apenas bonita, mas que também comunique de forma imediata o propósito da plataforma. O foco é convidar o usuário a agir, a "enviar a proposta", sem rodeios. Por isso, a combinação de um título claro, uma breve descrição e um botão de ação (CTA) é tão importante. </div>
+  
+* **Como funciona:** <div align="justify"> Ninguém quer se sentir perdido. Por isso, decidi quebrar o processo de envio de proposta em três passos simples. Coloquei cada um em um card, com um ícone fácil de entender. Isso transforma algo que poderia parecer burocrático em algo visual e intuitivo, ajudando o usuário a ver exatamente o que ele precisa fazer. </div>
+
+* **Edital em destaque:** <div align="justify"> O edital é super importante, e o usuário precisa encontrá-lo sem dificuldade. Criei essa seção com um botão de destaque para que ele possa baixar o documento rapidamente. A localização e o design da seção foram pensados para garantir que esse passo, que é fundamental, não passe despercebido. </div>
+  
+* **Formulários:** <div align="justify"> Entendi que o formulário é o coração do projeto. O desafio pedia duas variações, e isso foi uma ótima oportunidade. Pude testar como layouts diferentes, com campos em uma ou duas colunas, afetam a facilidade de preenchimento. Essa abordagem me permitiu ver qual design oferece a melhor experiência para o usuário, garantindo que o layout final seja o mais intuitivo possível. </div>
+
+* **FAQ + Contato:** <div align="justify"> Quando se fala em governo, é comum ter dúvidas. Incluir uma seção de perguntas e respostas e um meio de contato foi uma escolha natural para dar mais confiança ao usuário. Ele sabe que, se precisar de ajuda, há um lugar para encontrar as respostas ou falar com alguém. Isso transmite credibilidade e cuidado com a experiência. </div>
+  
+* **Footer:** <div align="justify"> Pensei no footer como a "assinatura" do site. Ele tem que ser informativo e passar a sensação de que o ciclo se completou. Usei uma cor mais escura para dar esse ar de solidez e adicionei links importantes, mas sem poluir a tela. Ele fecha a página de forma organizada, com todas as informações adicionais que o usuário possa precisar. </div>
 
 <div>&nbsp;</div>
 
@@ -245,8 +251,5 @@ Link para o hi-fi mobile: [LicitaGov Hi-Fi Mobile](url)
 #### Protótipo Desktop
 Link para o hi-fi desktop: [LicitaGov Hi-Fi Desktop](url)
 
-
-
-
-
-
+### Conclusão
+<div align="justify"> Este desafio foi uma baita experiência. Começar com a pesquisa de personas e concorrentes me fez ver que a simplicidade é a melhor resposta para a burocracia. O design não é só sobre o que é bonito, mas sobre como as pessoas vão se sentir usando o produto. Usar um design system e me preocupar com acessibilidade desde o começo foi crucial para manter a consistência e garantir que a plataforma fosse para todos. Acredito que o processo que segui, da ideia inicial até o protótipo, mostra que penso no usuário em cada decisão, e isso é o que mais importa para mim.</div>
