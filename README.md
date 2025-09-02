@@ -16,8 +16,11 @@ O objetivo é simular um portal de licitações com foco em UX/UI acessível, re
 
 ## Front-end
 
-###
-Não houve tempo hábil para commitar o código, mas o mesmo foi feito. 
+### Como Rodar o Projeto Localmente
+* Clone este repositório para sua máquina.
+*  Navegue até a pasta do projeto no terminal.
+* Instale as dependências: `npm install`
+* Inicie a aplicação: `npm run dev`
 
 ## UX/UI
 
