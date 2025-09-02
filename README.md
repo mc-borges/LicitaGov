@@ -22,6 +22,9 @@ O objetivo é simular um portal de licitações com foco em UX/UI acessível, re
 * Instale as dependências: `npm install`
 * Inicie a aplicação: `npm run dev`
 
+### Link Vercel  
+https://licita-gov.vercel.app/
+
 ## UX/UI
 
 ### Contexto
