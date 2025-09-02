@@ -16,10 +16,8 @@ O objetivo é simular um portal de licitações com foco em UX/UI acessível, re
 
 ## Front-end
 
-### Tecnologias utilizadas
-
-### Como rodar localmente
-
+###
+Não houve tempo hábil para commitar o código, mas o mesmo foi feito. 
 
 ## UX/UI
 
@@ -243,13 +241,15 @@ O restante pode ser conferido no link do projeto (Figma): [Design System - Licit
 <div align="justify"> Com tudo analisado e finalizado, segue os links: do protótipo final do Figma (com personas, Userflow, Design System (mini), wireframes, e hi-fi wireframe), e dos protótipos navegáveis em desktop e mobile (não apresentam estado de erro, apenas de sucesso, mas as telas de erro foram igualmente elaboradas). </div>
   
 #### Projeto Figma
-Link para o Figma: [LicitaGov Figma](url)
+Link para o Figma: [LicitaGov Figma](https://www.figma.com/design/jAMuDrWAcaFKqzy5HVL0Kk/LicitaGov?node-id=0-1&t=GNy4INO7FRd8zHoT-1)
+
+Link para o DevMode: [LicitaGov Figma](https://www.figma.com/design/jAMuDrWAcaFKqzy5HVL0Kk/LicitaGov?node-id=40-26&m=dev&t=GNy4INO7FRd8zHoT-1)
 
 #### Protótipo Mobile
-Link para o hi-fi mobile: [LicitaGov Hi-Fi Mobile](url)
+Link para o hi-fi mobile: [LicitaGov Hi-Fi Mobile](https://www.figma.com/proto/jAMuDrWAcaFKqzy5HVL0Kk/LicitaGov?node-id=80-5978&t=Yt5RK2MkA6ZFUciC-8&scaling=contain&content-scaling=fixed&page-id=40%3A27&starting-point-node-id=80%3A5978&hide-ui=1)
 
 #### Protótipo Desktop
-Link para o hi-fi desktop: [LicitaGov Hi-Fi Desktop](url)
+Link para o hi-fi desktop: [LicitaGov Hi-Fi Desktop](https://www.figma.com/proto/jAMuDrWAcaFKqzy5HVL0Kk/LicitaGov?node-id=68-2024&t=d3QIsHUZPt4gDASD-8&scaling=contain&content-scaling=fixed&page-id=40%3A26&starting-point-node-id=68%3A2024&hide-ui=1)
 
 ### Conclusão
 <div align="justify"> Este desafio foi uma baita experiência. Começar com a pesquisa de personas e concorrentes me fez ver que a simplicidade é a melhor resposta para a burocracia. O design não é só sobre o que é bonito, mas sobre como as pessoas vão se sentir usando o produto. Usar um design system e me preocupar com acessibilidade desde o começo foi crucial para manter a consistência e garantir que a plataforma fosse para todos. Acredito que o processo que segui, da ideia inicial até o protótipo, mostra que penso no usuário em cada decisão, e isso é o que mais importa para mim.</div>
